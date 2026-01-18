@@ -19,7 +19,13 @@ A minimal, clean, and mobile-responsive website to share your Tesla referral lin
    ```bash
    git clone https://github.com/your-username/tesla-referral-code.git
    ```
-2. Open `index.html` in your browser to view the site.
+2. Run the start script to preview locally:
+   ```bash
+   ./start.sh
+   ```
+   This will open `http://localhost:8000` in your default browser.
+   
+   *Alternative*: You can also simply double-click `index.html` to open it directly in your browser.
 
 ### Deploying to GitHub Pages
 
